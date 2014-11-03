@@ -6,6 +6,6 @@ Thanks to Gabe Khofri for turning me on to this tutorial.
 
 Allows you to encrypt and decrypt files in your web browser using a passphrase. 
 
-I got close to getting mocha and chai to work this time but ran out of time.
+I got close to getting mocha and chai to work but ran out of time before it was up and running.
 
 
