@@ -1,0 +1,11 @@
+{
+  "name": "encryptor",
+  "version": "0.0.1",
+  "description": "Protects your secrets",
+  "author": "Nick Manos",
+  "devDependencies": {
+    "mocha": "~2.0.0",
+    "chai": "~1.9.2"
+  }
+
+}
